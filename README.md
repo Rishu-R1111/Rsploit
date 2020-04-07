@@ -36,7 +36,7 @@ Rsploit is an Exploitation Framework for Attacks using ATtiny85 HID Devices such
 </p>
 
 
-# Huntdown Vunalabilities
+# Huntdown vulnerabilities of computer
 <p align="center">
 <img src="https://3.bp.blogspot.com/-Fi6mw4fnm1w/WoGw0v8hRqI/AAAAAAAAC_o/mExbVbP69nYs6TEaRH6evwdkAY2Z3ZKJACK4BGAYYCw/s1600/path-traversal-2.PNG" width="95%" height="auto">
 </p>
