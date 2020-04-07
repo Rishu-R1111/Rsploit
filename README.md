@@ -1,4 +1,4 @@
-# Rsploit
+# Rsploit by RISHU RIKSHT
 
 <h4 align="center">Exploitation Framework for ATtiny85 HID Attacks</h4>
 
