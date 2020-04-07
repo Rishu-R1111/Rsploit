@@ -40,7 +40,7 @@ RRRRRRRR     RRRRRRR                   sssssssssss     p::::::pppppppp    llllll
                                                       p:::::::p                                                                  
                                                       ppppppppp                                                                  
                                                                                                                                  
-	print(G + banner + W)
+'''     print(G + banner + W)
 	print(G + '[+]' + C + ' Created By : ' + W + 'thewhiteh4t')
 	print(G + '[+]' + C + ' Version    : ' + W + version)
 
