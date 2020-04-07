@@ -97,7 +97,7 @@ pacman -S Rsploit
 #### Kali Linux
 
 ```bash
-git clone https://github.com/thewhiteh4t/Rsploit.git 
+git clone https://github.com/Rishu-R1111/Rsploit.git 
 cd Rsploit
 python3 Rsploit.py 
 ```
