@@ -45,7 +45,7 @@ RRRRRRRR     RRRRRRR                   sssssssssss     p::::::pppppppp    llllll
 	print(G + '[+]' + C + ' Version    : ' + W + version)
 
 def main():
-	print('\n' + G + '[+]' + C + ' Choose Target : ' + W + '\n')
+	print('\n' + G + '[+]' + C + ' Choose Target : ' + W + '\n') 
 	print(G + '[1]' + C + ' Windows' + W)
 	while True:
 		choice = input(G + '\nfs > ' + W)
