@@ -16,7 +16,8 @@ version = '1.0.0'
 def banner():
 	os.system('clear')
 	banner = r'''
-                                                                                                                                     
+    ______           __               __      _ __ 
+ 
 RRRRRRRRRRRRRRRRR                                                         lllllll                    iiii          tttt          
 R::::::::::::::::R                                                        l:::::l                   i::::i      ttt:::t          
 R::::::RRRRRR:::::R                                                       l:::::l                    iiii       t:::::t          
@@ -33,19 +34,20 @@ RR:::::R     R:::::R                 s:::::ssss::::::s p:::::ppppp:::::::pl:::::
 R::::::R     R:::::R                 s::::::::::::::s  p::::::::::::::::p l::::::lo:::::::::::::::oi::::::i     tt::::::::::::::t
 R::::::R     R:::::R                  s:::::::::::ss   p::::::::::::::pp  l::::::l oo:::::::::::oo i::::::i       tt:::::::::::tt
 RRRRRRRR     RRRRRRR                   sssssssssss     p::::::pppppppp    llllllll   ooooooooooo   iiiiiiii         ttttttttttt  
-                                                       p:::::p                                                                   
-                                                       p:::::p                                                                   
-                                                      p:::::::p                                                                  
-                                                      p:::::::p                                                                  
-                                                      p:::::::p                                                                  
-                                                      ppppppppp                                                                  
-                                                                                                                                 
-'''     print(G + banner + W)
+                                                       p:::::p
+                                                       p:::::p
+                                                      p:::::::p
+                                                      p:::::::p
+                                                      p:::::::p
+                                                      ppppppppp
+                  
+'''
+	print(G + banner + W)
 	print(G + '[+]' + C + ' Created By : ' + W + 'thewhiteh4t')
 	print(G + '[+]' + C + ' Version    : ' + W + version)
 
 def main():
-	print('\n' + G + '[+]' + C + ' Choose Target : ' + W + '\n') 
+	print('\n' + G + '[+]' + C + ' Choose Target : ' + W + '\n')
 	print(G + '[1]' + C + ' Windows' + W)
 	while True:
 		choice = input(G + '\nfs > ' + W)
